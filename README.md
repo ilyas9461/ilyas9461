@@ -11,7 +11,7 @@
 JavaScript | Express.JS | VUE3 | ANSI C | C++| C# | Python | MongoDB | MySQL
 - I can combine desktop applications with hardware and remote web databases and display required information in front-end application.
 - I can perform embedded designs based on Arduino, PIC MCU, and create the necessary schematics for the PCB.
-- So far, I have been a consultant to different student projects. The projects I have contributed to have received various degrees.
+- So far, I have been a consultant to different student projects. The projects I have contributed to have received various degrees. I have taught courses in Coding, Robotics, Arduino, C and C++ languages to students at various levels.
 - I’m looking to collaborate on open source projects
 - Ask me about anything that you want to learn
 
