@@ -8,14 +8,17 @@
 
 - I am currently working on the integration of web applications and electronic hardware. For this purpose, I can develop front-end and back-end applications.
 - Programming languages and components I use in different projects;
-JavaScript | Express.JS | VUE3 | ANSI C | C++| C# | Python | MongoDB | MySQL
+JavaScript | Express.JS | VUE 3 | ANSI C | C++| C# | Python | MongoDB | MySQL
 - I can combine desktop applications with hardware and remote web databases and display required information in front-end application.
 - I can perform embedded designs based on Arduino, PIC MCU, and create the necessary schematics for the PCB.
 - So far, I have been a consultant to different student projects. The projects I have contributed to have received various degrees. I have taught courses in Coding, Robotics, Arduino, C and C++ languages to students at various levels.
 - I’m looking to collaborate on open source projects
 - Ask me about anything that you want to learn
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461&layout=compact&show_icons=true&theme=react)](https://github.com/ilyas9461/github-readme-stats&hide_border=true&show_icons=true&langs_count=5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461&layout=compact&show_icons=true&theme=react)](https://github.com/ilyas9461/github-readme-stats&hide_border=true&show_icons=true&langs_count=10)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461)](https://github.com/ilyas9461/github-readme-stats) -->
 
 <p>My Tools :<p/>
 <p align="bottom">
