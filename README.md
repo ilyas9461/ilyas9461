@@ -1,8 +1,8 @@
 <p><strong> <h2> Hi everyone ! </h2> </strong></p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ilyas9461&show_icons=true&theme=tokyonight"  width="%">
-    <img src="img\PinkPiercingBull-size_restricted.gif" alt="react-native" width="20%" height="40%" align="right" style="margin:25px">
-     <img src="img\react-anim.gif" alt="react-native" width="20%" height="40%" align="right" style="margin:25px">
+    <img src="img\react-anim.gif" alt="react" width="20%" height="40%" align="right" style="margin:25px">
+    <img src="img\PinkPiercingBull-size_restricted.gif" alt="vue3" width="20%" height="40%" align="right" style="margin:25px">    
 </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=ilyas9461&color=green" alt="lys9461" /> </p>
@@ -32,12 +32,14 @@ JavaScript | NodeJS | Express.JS | React | VUE 3 | React | ANSI C | C++ | C# | P
 <img src="./img/node.png" width="25" height="25">
 <img src="./img/dj.png" width="25" height="25" border: 5px solid #555>
 <img src="./img/mysql.png" width="25" height="25">
+<img src="./img/postman.png" width="25" height="25">
 <img src="./img/sgithub.png" width="25" height="25">
 <img src="./img/mplab-xide-transparent-background.png" width="30" height="25">
 <img src="./img/vs.png" width="25" height="25">
 <img src="./img/Kicad_logo_new.png" width="35" height="25">
 <img src="./img/proteus_logo.png" width="35" height="25">
 <img src="./img/jira.jpg" width="35" height="25">
+<img src="./img/slack0.jpg" width="35" height="25">
 <p/>
 
 
