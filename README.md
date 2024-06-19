@@ -1,7 +1,8 @@
 <p><strong> <h2> Hi everyone ! </h2> </strong></p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ilyas9461&show_icons=true&theme=tokyonight"  width="55%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ilyas9461&show_icons=true&theme=tokyonight"  width="%">
     <img src="img\PinkPiercingBull-size_restricted.gif" alt="react-native" width="20%" height="40%" align="right" style="margin:25px">
+     <img src="img\react-anim.gif" alt="react-native" width="20%" height="40%" align="right" style="margin:25px">
 </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=ilyas9461&color=green" alt="lys9461" /> </p>
@@ -26,6 +27,7 @@ JavaScript | NodeJS | Express.JS | React | VUE 3 | React | ANSI C | C++ | C# | P
 <img src="./img/sass.png" width="25" height="25">
 <img src="./img/html.png" width="25" height="25">
 <img src="./img/js-logo.png" width="25" height="25">
+<img src="./img/reactt.png" width="25" height="25" border: 5px solid #555>
 <img src="./img/es6.jpg" width="25" height="25" border: 5px solid #555>
 <img src="./img/node.png" width="25" height="25">
 <img src="./img/dj.png" width="25" height="25" border: 5px solid #555>
@@ -35,6 +37,7 @@ JavaScript | NodeJS | Express.JS | React | VUE 3 | React | ANSI C | C++ | C# | P
 <img src="./img/vs.png" width="25" height="25">
 <img src="./img/Kicad_logo_new.png" width="35" height="25">
 <img src="./img/proteus_logo.png" width="35" height="25">
+<img src="./img/jira.jpg" width="35" height="25">
 <p/>
 
 
