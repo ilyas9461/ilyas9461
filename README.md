@@ -1,8 +1,7 @@
 <p><strong> <h2> Hi everyone ! </h2> </strong></p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ilyas9461&show_icons=true&theme=tokyonight"  width="%">
     <img src="img\react-anim.gif" alt="react" width="20%" height="40%" align="right" style="margin:25px">
-    <img src="img\PinkPiercingBull-size_restricted.gif" alt="vue3" width="20%" height="40%" align="right" style="margin:25px">    
+ 
 </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=ilyas9461&color=green" alt="lys9461" /> </p>
@@ -17,9 +16,6 @@ JavaScript | NodeJS | Express.JS | React | VUE 3 | ANSI C | C++ | C# | Python | 
 - Ask me about anything that you want to learn
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461&layout=compact&show_icons=true&theme=react)](https://github.com/ilyas9461/github-readme-stats&hide_border=true&show_icons=true&langs_count=10)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas9461)](https://github.com/ilyas9461/github-readme-stats) -->
 
 <p>My Tools :<p/>
 <p align="bottom">
